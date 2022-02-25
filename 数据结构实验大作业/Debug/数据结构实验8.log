@@ -1,0 +1,9 @@
+﻿  一站式航班服务.cpp
+E:\Visual Studio\数据结构实验8\一站式航班服务.cpp(515,23): warning C4476: "fscanf": 格式说明符中的类型字段字符“.”未知
+E:\Visual Studio\数据结构实验8\一站式航班服务.cpp(515,23): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 12 拥有了类型“double *”
+E:\Visual Studio\数据结构实验8\一站式航班服务.cpp(530,9): warning C4474: fscanf: 格式字符串中传递的参数太多
+E:\Visual Studio\数据结构实验8\一站式航班服务.cpp(530,9): message : 占位符和其参数预计 14 可变参数，但提供的却是 15 参数
+E:\Visual Studio\数据结构实验8\一站式航班服务.cpp(599,12): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+E:\Visual Studio\数据结构实验8\一站式航班服务.cpp(577,10): warning C4101: “price”: 未引用的局部变量
+E:\Visual Studio\数据结构实验8\一站式航班服务.cpp(578,10): warning C4101: “num”: 未引用的局部变量
+  数据结构实验8.vcxproj -> E:\Visual Studio\数据结构实验8\Debug\数据结构实验8.exe

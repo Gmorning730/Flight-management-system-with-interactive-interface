@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(数据结构实验8.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  一站式航班服务.cpp
+E:\Visual Studio\数据结构实验大作业\一站式航班服务.cpp(996,10): warning C4101: “email”: 未引用的局部变量
+E:\Visual Studio\数据结构实验大作业\一站式航班服务.cpp(1006,23): warning C4101: “m4”: 未引用的局部变量
+E:\Visual Studio\数据结构实验大作业\一站式航班服务.cpp(1212,23): warning C4476: "fscanf": 格式说明符中的类型字段字符“.”未知
+E:\Visual Studio\数据结构实验大作业\一站式航班服务.cpp(1212,23): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 12 拥有了类型“double *”
+E:\Visual Studio\数据结构实验大作业\一站式航班服务.cpp(1227,9): warning C4474: fscanf: 格式字符串中传递的参数太多
+E:\Visual Studio\数据结构实验大作业\一站式航班服务.cpp(1227,9): message : 占位符和其参数预计 14 可变参数，但提供的却是 15 参数
+E:\Visual Studio\数据结构实验大作业\一站式航班服务.cpp(1608,18): warning C4101: “modi”: 未引用的局部变量
+E:\Visual Studio\数据结构实验大作业\一站式航班服务.cpp(1316): warning C4172: 返回局部变量或临时变量的地址: b
+E:\Visual Studio\数据结构实验大作业\一站式航班服务.cpp(1539): warning C4172: 返回局部变量或临时变量的地址: s1
+  数据结构实验大作业.vcxproj -> E:\Visual Studio\数据结构实验大作业\Debug\数据结构实验大作业.exe
